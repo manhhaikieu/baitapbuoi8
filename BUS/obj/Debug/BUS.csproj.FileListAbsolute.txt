@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\LAB05\BUS\bin\Debug\BUS.dll.config
+C:\Users\LENOVO\source\repos\LAB05\BUS\bin\Debug\BUS.dll
+C:\Users\LENOVO\source\repos\LAB05\BUS\bin\Debug\BUS.pdb
+C:\Users\LENOVO\source\repos\LAB05\BUS\bin\Debug\DAL.dll
+C:\Users\LENOVO\source\repos\LAB05\BUS\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\LAB05\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\LAB05\BUS\bin\Debug\DAL.pdb
+C:\Users\LENOVO\source\repos\LAB05\BUS\bin\Debug\DAL.dll.config
+C:\Users\LENOVO\source\repos\LAB05\BUS\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\LAB05\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\LAB05\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\LAB05\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LAB05\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\LENOVO\source\repos\LAB05\BUS\obj\Debug\BUS.dll
+C:\Users\LENOVO\source\repos\LAB05\BUS\obj\Debug\BUS.pdb

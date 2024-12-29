@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47AB90F9-1128-4D7D-AED1-2DF210EC4A27}|LAB05\\GUI.csproj|c:\\users\\lenovo\\source\\repos\\lab05\\lab05\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47AB90F9-1128-4D7D-AED1-2DF210EC4A27}|LAB05\\GUI.csproj|solutionrelative:lab05\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AB90F9-1128-4D7D-AED1-2DF210EC4A27}|LAB05\\GUI.csproj|c:\\users\\lenovo\\source\\repos\\lab05\\lab05\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AB90F9-1128-4D7D-AED1-2DF210EC4A27}|LAB05\\GUI.csproj|solutionrelative:lab05\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AB90F9-1128-4D7D-AED1-2DF210EC4A27}|LAB05\\GUI.csproj|c:\\users\\lenovo\\source\\repos\\lab05\\lab05\\frmregistermajor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47AB90F9-1128-4D7D-AED1-2DF210EC4A27}|LAB05\\GUI.csproj|solutionrelative:lab05\\frmregistermajor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AB90F9-1128-4D7D-AED1-2DF210EC4A27}|LAB05\\GUI.csproj|c:\\users\\lenovo\\source\\repos\\lab05\\lab05\\frmregistermajor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AB90F9-1128-4D7D-AED1-2DF210EC4A27}|LAB05\\GUI.csproj|solutionrelative:lab05\\frmregistermajor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AB90F9-1128-4D7D-AED1-2DF210EC4A27}|LAB05\\GUI.csproj|c:\\users\\lenovo\\source\\repos\\lab05\\lab05\\frmregistermajor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AB90F9-1128-4D7D-AED1-2DF210EC4A27}|LAB05\\GUI.csproj|solutionrelative:lab05\\frmregistermajor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AB90F9-1128-4D7D-AED1-2DF210EC4A27}|LAB05\\GUI.csproj|c:\\users\\lenovo\\source\\repos\\lab05\\lab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AB90F9-1128-4D7D-AED1-2DF210EC4A27}|LAB05\\GUI.csproj|solutionrelative:lab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0543F6E-2C14-4DB7-8870-7B85B9DF6194}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\lab05\\dal\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0543F6E-2C14-4DB7-8870-7B85B9DF6194}|DAL\\DAL.csproj|solutionrelative:dal\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmRegisterMajor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\LAB05\\frmRegisterMajor.cs",
+              "RelativeDocumentMoniker": "LAB05\\frmRegisterMajor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\LAB05\\frmRegisterMajor.cs",
+              "RelativeToolTip": "LAB05\\frmRegisterMajor.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwHYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:47:08.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmStudent.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\LAB05\\frmStudent.cs",
+              "RelativeDocumentMoniker": "LAB05\\frmStudent.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\LAB05\\frmStudent.cs",
+              "RelativeToolTip": "LAB05\\frmStudent.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAADwv14BAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:40:36.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmRegisterMajor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\LAB05\\frmRegisterMajor.cs",
+              "RelativeDocumentMoniker": "LAB05\\frmRegisterMajor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\LAB05\\frmRegisterMajor.cs [Design]",
+              "RelativeToolTip": "LAB05\\frmRegisterMajor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:36:09.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\LAB05\\frmStudent.cs",
+              "RelativeDocumentMoniker": "LAB05\\frmStudent.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\LAB05\\frmStudent.cs [Design]",
+              "RelativeToolTip": "LAB05\\frmStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:19:36.483Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmRegisterMajor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\LAB05\\frmRegisterMajor.Designer.cs",
+              "RelativeDocumentMoniker": "LAB05\\frmRegisterMajor.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\LAB05\\frmRegisterMajor.Designer.cs",
+              "RelativeToolTip": "LAB05\\frmRegisterMajor.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAUwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:51:30.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\LAB05\\Program.cs",
+              "RelativeDocumentMoniker": "LAB05\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\LAB05\\Program.cs",
+              "RelativeToolTip": "LAB05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:17:22.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\DAL\\Models\\Model1.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Model1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\LAB05\\DAL\\Models\\Model1.cs",
+              "RelativeToolTip": "DAL\\Models\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T02:14:29.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
